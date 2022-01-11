@@ -16,5 +16,7 @@
 
 
 # My Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
+<div style="display : flex; align-items : center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
+</div>
