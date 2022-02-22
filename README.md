@@ -20,3 +20,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
 </div>
+<img align="center" src="https://ddsas.xyz/api/widget/925765821937098802?background=banner&darkedBackground=true"/>
