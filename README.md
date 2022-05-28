@@ -39,4 +39,3 @@ const terminaate = createUser("terminaate", undefined, undefined, 13)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
 </div>
-<img align="center" src="http://discord-banners.terminaate.xyz/api/widget/407047584021217290"/>
