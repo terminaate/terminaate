@@ -7,8 +7,8 @@ const createUser = (username, firstName, lastName, age, skills) => {
     lastName,
     age,
     skills
-  }
-}
+  };
+};
 
 const skills = [
   {
@@ -34,9 +34,9 @@ const skills = [
       "sass"
     ]
   },
-]
+];
 
-const terminaate = createUser("terminaate", undefined, undefined, 14, skills)
+const terminaate = createUser("terminaate", undefined, undefined, 14, skills);
 ```
 
 <div style="display : flex">
