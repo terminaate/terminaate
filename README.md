@@ -1,4 +1,4 @@
-# About Me
+# :skull: About Me
 ```js
 const createUser = (username, firstName, lastName, age, skills) => {
   return {
@@ -63,7 +63,7 @@ const terminaate = createUser("terminaate", undefined, undefined, 14, skills);
 </div>
 
 
-# My Stats
+# :memo: My Stats
 <div style="display : flex; align-items : center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
