@@ -22,7 +22,7 @@ const skills = [
       "next"
     ],
     ts: function(): string[] { return this.js; },
-    python: [
+    "python": [
       "requests",
       "bs4",
       "pyQt",
