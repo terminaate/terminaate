@@ -14,17 +14,19 @@ const skills = [
   {
     js : [
       "node",
+      "discord.js",
       "react",
       "vue",
       "express",
       "nest",
       "next"
     ],
-    ts: function() { return this.js; },
+    ts: function(): string[] { return this.js; },
     python: [
       "requests",
       "bs4",
-      "pyQt"
+      "pyQt",
+      "discord.py"
     ]
   },
   {
