@@ -1,44 +1,74 @@
-# :skull: About Me
-```js
-const createUser = (username, firstName, lastName, age, skills) => {
-  return {
-    username,
-    firstName,
-    lastName,
-    age,
-    skills
-  };
+# :mag: About Me
+```ts
+const enum Skill {
+    HTML = '<html lang="en">...</html>',
+    CSS = '.container { display: none }',
+    JS = 'JS',
+    TS = 'TS',
+    BUNDLERS = 'bunders',
+
+    // @deprecated - Python is no longer an active language, but may be used in rare cases
+    PYTHON = '"python"'
+}
+
+type UserSkills = Record<Skill, string[] | (() => string[])>;
+
+type User = {
+    username: string;
+    firstName: string;
+    lastName: string;
+    age: number;
+    skills: UserSkills
+}
+
+const createUser = (username: string, firstName: string, lastName: string, age: number, skills: UserSkills): User => {
+    return {
+        username,
+        firstName,
+        lastName,
+        age,
+        skills
+    };
 };
 
-const skills = [
-  {
-    js : [
-      "node",
-      "discord.js",
-      "react",
-      "vue",
-      "express",
-      "nest",
-      "next"
+const terminaateSkills: UserSkills = {
+    [Skill.HTML]: [
+        "pug",
     ],
-    ts: function(): string[] { return this.js; },
-    "python": [
-      "requests",
-      "bs4",
-      "pyQt",
-      "discord.py"
-    ]
-  },
-  {
-    html: "pug",
-    css: [
-      "scss",
-      "sass"
-    ]
-  },
-];
 
-const terminaate = createUser("t$rm1naate", undefined, undefined, 15, skills);
+    [Skill.CSS]: [
+        "sass"
+    ],
+
+    [Skill.JS]: [
+        'react',
+        'next',
+        'node',
+        'discord.js',
+        'express',
+    ],
+
+    [Skill.TS]() {
+        return [...this[Skill.JS], 'nest']
+    },
+
+    [Skill.BUNDLERS]: [
+      'webpack',
+      'vite',
+      'gulp'
+    ],
+
+    [Skill.PYTHON]: [
+        "requests",
+        "bs4",
+        "pyQt",
+        "discord.py"
+    ],
+}
+
+const terminaate = createUser("t$rm1naate", 'undefined', 'undefined', 15, terminaateSkills);
+
+// P.S: do not pay attention to the code formatting, this is not a bug but a feature
 ```
 
 <div style="display : flex">
@@ -46,7 +76,6 @@ const terminaate = createUser("t$rm1naate", undefined, undefined, 15, skills);
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 </div>
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
