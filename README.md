@@ -24,7 +24,8 @@
 
 # :phone: Contacts
 - Discord: terminaate
-- Telegram: [@terminaate](https://t.me/terminaate) 
+- Telegram: [@terminaate](https://t.me/terminaate)
+- Gmail: terminaatecorp@gmail.com
 
 # :memo: Badges
 <div style="display : flex; align-items : center">
