@@ -1,5 +1,5 @@
 # :mag: About Me
-- I'm a young web developer living in Russia, I devote most of my time to developing my own small projects and self-improvement, I have been doing web development for about 3 years, during this time I tried Frontend and Backend directions, I write Backend completely only on Node. js (Nest/Express), in the Frontend area I have quite a lot of experience in writing React applications, so now I position myself as a React frontend developer
+- I am a young web developer from Russia with 3 years of experience in development. My three-year journey in frontend development has been characterized by continuous growth and refinement. With 2 years of hands-on experience in commercial development, I have cultivated deep expertise in React and significant proficiency in Next.js. My projects stand out for their efficiency, modularity, and appealing design. I am dedicated to delivering high-quality web applications that not only meet technical standards but also embody aesthetic excellence.
 
 # :skull: Skills
 <div style="display : flex">
