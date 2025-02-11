@@ -7,7 +7,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
-- [terminaate/personal-site](https://github.com/terminaate/personal-site) -  (today)
+- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (today)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (today)
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
 - [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (1 day ago)
@@ -18,7 +18,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels
 - [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new
-- [terminaate/personal-site](https://github.com/terminaate/personal-site) - 
+- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;)
 - [terminaate/ValorBG](https://github.com/terminaate/ValorBG) - Set your own background in valorant main menu!
 - [terminaate/vc-discordTracker](https://github.com/terminaate/vc-discordTracker) - Vencord extension that adds discord-tracker integration
 
