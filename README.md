@@ -8,9 +8,9 @@ I also have a growing interest in DevOps and backend development, exploring how 
 # :construction: My latest contributions
 
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (today)
-- [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (today)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
-- [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (1 day ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
+- [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (1 day ago)
+- [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (2 days ago)
 - [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (2 weeks ago)
 
 
@@ -24,7 +24,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :bookmark_tabs: Recent blog posts
 
-- [Writing this website](https://terminaate.vercel.app/writing-this-site) (1 day ago)
+- [Writing this website](https://terminaate.vercel.app/blog/writing-this-site) (2 days ago)
 
 # :phone: Contacts
 - Discord: terminaate
