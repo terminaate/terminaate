@@ -24,6 +24,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :bookmark_tabs: Recent blog posts
 
+- [How i turned my old phone into home server](https://terminaate.vercel.app/blog/home-server-creation) (2 days ago)
 - [Writing this website](https://terminaate.vercel.app/blog/writing-this-site) (2 days ago)
 
 # :phone: Contacts
