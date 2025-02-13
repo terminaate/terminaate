@@ -7,10 +7,10 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
-- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (today)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 day ago)
-- [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (1 day ago)
-- [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (2 days ago)
+- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (1 day ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 days ago)
+- [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (2 days ago)
+- [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (3 days ago)
 - [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (2 weeks ago)
 
 
@@ -24,8 +24,8 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :bookmark_tabs: Recent blog posts
 
-- [How i turned my old phone into home server](https://terminaate.vercel.app/blog/home-server-creation) (2 days ago)
-- [Writing this website](https://terminaate.vercel.app/blog/writing-this-site) (2 days ago)
+- [How i turned my old phone into home server](https://terminaate.vercel.app/blog/home-server-creation) (3 days ago)
+- [Writing this website](https://terminaate.vercel.app/blog/writing-this-site) (3 days ago)
 
 # :phone: Contacts
 - Discord: terminaate
