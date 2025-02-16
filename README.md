@@ -7,9 +7,9 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (today)
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (1 day ago)
 - [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (2 days ago)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (5 days ago)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (5 days ago)
 - [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (6 days ago)
 
