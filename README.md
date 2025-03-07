@@ -38,4 +38,4 @@ I also have a growing interest in DevOps and backend development, exploring how 
 </div>
 
 # Discord banner ;)
-<img src="https://discord-banners-api.terminaate.site/widget/925765821937098802" alt="discord banner">
+<img src="https://discord-banners-api.terminaate.site/widget/terminaate" alt="discord banner">
