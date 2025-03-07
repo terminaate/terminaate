@@ -30,3 +30,6 @@ I also have a growing interest in DevOps and backend development, exploring how 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
 </div>
+
+# Discord banner ;)
+<img src="https://discord-banners-api.terminaate.site/widget/925765821937098802" alt="discord banner">
