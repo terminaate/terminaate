@@ -7,11 +7,11 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
+- [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (today)
+- [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (today)
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (2 days ago)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (2 weeks ago)
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 weeks ago)
-- [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (3 weeks ago)
-- [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new (3 weeks ago)
 
 
 # :briefcase: Projects
@@ -36,3 +36,6 @@ I also have a growing interest in DevOps and backend development, exploring how 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
 </div>
+
+# Discord banner ;)
+<img src="https://discord-banners-api.terminaate.site/widget/925765821937098802" alt="discord banner">
