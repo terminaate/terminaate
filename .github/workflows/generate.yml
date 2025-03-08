@@ -11,6 +11,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@master
+      - uses: kevincobain2000/action-camo-purge@v1
 
       - uses: muesli/readme-scribe@master
         env:
