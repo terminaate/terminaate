@@ -32,4 +32,4 @@ I also have a growing interest in DevOps and backend development, exploring how 
 </div>
 
 # Discord banner ;)
-<img src="https://discord-banners-api.terminaate.site/banner/terminaate?profileEffect=1303490165225816125&decoration=a_9bc421cef4bdcfffeb2344b44ad91b44" alt="discord banner">
+<img src="https://discord-banners-api.terminaate.site/banner/terminaate?profileEffect=1303490165225816125&decoration=a_9bc421cef4bdcfffeb2344b44ad91b44&cache=true" alt="discord banner">
