@@ -8,10 +8,10 @@ I also have a growing interest in DevOps and backend development, exploring how 
 # :construction: My latest contributions
 
 - [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (today)
-- [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (3 days ago)
-- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (6 days ago)
-- [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (3 weeks ago)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (3 weeks ago)
+- [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (1 week ago)
+- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (1 week ago)
+- [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (4 weeks ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 month ago)
 
 
 # :briefcase: Projects
@@ -38,4 +38,4 @@ I also have a growing interest in DevOps and backend development, exploring how 
 </div>
 
 # Discord banner ;)
-<img src="https://discord-banners-api.terminaate.site/banner/925765821937098802?fakeProfile=true&cache=true" alt="discord banner">
+<img src="https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=false" alt="discord banner">
