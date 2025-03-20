@@ -38,4 +38,4 @@ I also have a growing interest in DevOps and backend development, exploring how 
 </div>
 
 # Discord banner ;)
-[<img src="https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=false" alt="discord banner">](https://discord-banners.terminaate.site/)
+[<img src="https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=true" alt="discord banner">](https://discord-banners.terminaate.site/)
