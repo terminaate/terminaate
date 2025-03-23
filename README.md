@@ -7,8 +7,8 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
-- [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (today)
-- [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (today)
+- [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (1 day ago)
+- [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (1 day ago)
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (2 weeks ago)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (1 month ago)
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 month ago)
