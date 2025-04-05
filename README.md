@@ -7,20 +7,20 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
+- [terminaate/testing-electron](https://github.com/terminaate/testing-electron) -  (today)
 - [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (6 days ago)
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (1 week ago)
 - [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (2 weeks ago)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (1 month ago)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 month ago)
 
 
 # :briefcase: Projects
 
+- [terminaate/testing-electron](https://github.com/terminaate/testing-electron) - 
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels
 - [terminaate/terminaate.github.io](https://github.com/terminaate/terminaate.github.io) - In past my old personal site, not it redirects to new
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;)
 - [terminaate/ValorBG](https://github.com/terminaate/ValorBG) - Set your own background in valorant main menu!
-- [terminaate/vc-discordTracker](https://github.com/terminaate/vc-discordTracker) - Vencord extension that adds discord-tracker integration
 
 # :bookmark_tabs: Recent blog posts
 
