@@ -7,7 +7,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :construction: My latest contributions
 
-- [terminaate/testing-electron](https://github.com/terminaate/testing-electron) -  (today)
+- [terminaate/testing-electron](https://github.com/terminaate/testing-electron) -  (1 day ago)
 - [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (1 week ago)
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (1 week ago)
 - [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (2 weeks ago)
