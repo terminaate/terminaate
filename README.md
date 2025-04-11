@@ -24,9 +24,9 @@ I also have a growing interest in DevOps and backend development, exploring how 
 
 # :bookmark_tabs: Recent blog posts
 
-- [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (1 month ago)
+- [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (2 months ago)
 - [Making of discord banners](https://terminaate.site/blog/making-of-discord-banners) (2 weeks ago)
-- [Writing this website](https://terminaate.site/blog/writing-this-site) (1 month ago)
+- [Writing this website](https://terminaate.site/blog/writing-this-site) (2 months ago)
 
 # :phone: Contacts
 - Discord: terminaate
