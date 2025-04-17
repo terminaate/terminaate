@@ -11,7 +11,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 - [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (3 weeks ago)
 - [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (3 weeks ago)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (1 month ago)
-- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (1 month ago)
+- [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 months ago)
 
 
 # :briefcase: Projects
