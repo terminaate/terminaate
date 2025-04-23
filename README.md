@@ -8,7 +8,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 # :construction: My latest contributions
 
 - [terminaate/discord-banners-server](https://github.com/terminaate/discord-banners-server) - Discord banners REST API (3 weeks ago)
-- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (3 weeks ago)
+- [terminaate/personal-site](https://github.com/terminaate/personal-site) - My personal website ;) (4 weeks ago)
 - [terminaate/discord-banners](https://github.com/terminaate/discord-banners) - Service for generating image of your discord profile (1 month ago)
 - [terminaate/vc-nextRoom](https://github.com/terminaate/vc-nextRoom) - Vencord plugin that adds key binds for switching voice channels (2 months ago)
 - [isabelroses/catppuccin-webring](https://github.com/isabelroses/catppuccin-webring) -  (2 months ago)
@@ -25,7 +25,7 @@ I also have a growing interest in DevOps and backend development, exploring how 
 # :bookmark_tabs: Recent blog posts
 
 - [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (2 months ago)
-- [Making of discord banners](https://terminaate.site/blog/making-of-discord-banners) (3 weeks ago)
+- [Making of discord banners](https://terminaate.site/blog/making-of-discord-banners) (4 weeks ago)
 - [Writing this website](https://terminaate.site/blog/writing-this-site) (2 months ago)
 
 # :phone: Contacts
