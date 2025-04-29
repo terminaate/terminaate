@@ -39,9 +39,8 @@ I enjoy making apps that are not just functional, but also feel great to use.
 
 ---
 
-# Current discord status
 # 🎉 My Discord Banner
 Want a cool Discord banner like this?
-Check it out at [discord-banners](https://discord-banners.terminaate.site)!
+Check it out at [discord-banners.terminaate.site](https://discord-banners.terminaate.site)!
 
 [![Discord Banner](https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=true)](https://discord-banners.terminaate.site/)
