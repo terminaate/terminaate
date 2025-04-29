@@ -1,35 +1,46 @@
-# :mag: About Me
-Hey! I'm a young web developer from Russia who loves building and designing for the web.
+# 👋 About Me
+Hi! I'm a web developer from Russia who loves building cool things for the web.
 
-I specialize in React and Next.js, focusing on creating modular, efficient, and visually appealing projects.
+I mostly work with **React** and **Next.js**, focusing on modular, efficient, and good-looking projects.
+Lately, I've also been diving into **backend** and **DevOps**, learning how everything works under the hood.
 
-I also have a growing interest in DevOps and backend development, exploring how everything connects behind the scenes. I enjoy crafting web applications that are not just functional but also well-designed and user-friendly.
+I enjoy making apps that are not just functional, but also feel great to use.
 
-# :construction: My latest contributions
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+---
 
 
-# :briefcase: Projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+# 🛠️ Projects
+- [CyberMP](https://cybermp.org) – A multiplayer modification/platform for Cyberpunk 2077
+- [Discord Banners](https://github.com/terminaate/discord-banners) – service that turns your Discord profile into a stylish, shareable image — perfect for showing off your avatar, status, and banner anywhere!
+- [Personal website](https://github.com/terminaate/personal-site) – My personal website
+- [ValorBG](https://github.com/terminaate/ValorBG) – Custom background changer for Valorant
+- [vc-discordTracker](https://github.com/terminaate/vc-discordTracker) – Vencord extension for Discord Tracker integration
+- [vc-nextRoom](https://github.com/terminaate/vc-nextRoom) – Vencord plugin for easier voice channel switching
 
-# :bookmark_tabs: Recent blog posts
-{{range rss "https://terminaate.vercel.app/rss.xml" 5}}
+---
+
+# 📝 Blog Posts
+{{range rss "https://terminaate.site/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-# :phone: Contacts
-- Discord: terminaate
-- Mail: terminaatecorp@gmail.com
+# 📞 Contact Me
+- **Discord:** terminaate
+- **Email:** terminaatecorp@gmail.com
 
-# :memo: Badges
-<div style="display : flex; align-items : center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px"/>
+---
+
+# 🎖️ GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px" />
 </div>
 
-# Discord banner ;)
-[<img src="https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=true" alt="discord banner">](https://discord-banners.terminaate.site/)
+---
+
+# Current discord status
+# 🎉 My Discord Banner
+Want a cool Discord banner like this?
+Check it out at [discord-banners](https://discord-banners.terminaate.site)!
+
+[![Discord Banner](https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=true)](https://discord-banners.terminaate.site/)
