@@ -1,7 +1,7 @@
 # 👋 About Me
 Hi! I'm a web developer from Russia who loves building cool things for the web.
 
-I mostly work with **React** and **Next.js**, focusing on modular, efficient, and good-looking projects.  
+I mostly work with **React** and **Next.js**, focusing on modular, efficient, and good-looking projects.
 Lately, I've also been diving into **backend** and **DevOps**, learning how everything works under the hood.
 
 I enjoy making apps that are not just functional, but also feel great to use.
@@ -20,11 +20,10 @@ I enjoy making apps that are not just functional, but also feel great to use.
 ---
 
 # 📝 Blog Posts
-- [Turning my old phone into a home server](https://terminaate.site/blog/home-server-creation)
-- [Making of Discord Banners](https://terminaate.site/blog/making-of-discord-banners)
-- [Writing this website](https://terminaate.site/blog/writing-this-site)
 
----
+- [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (2 months ago)
+- [Making of discord banners](https://terminaate.site/blog/making-of-discord-banners) (1 month ago)
+- [Writing this website](https://terminaate.site/blog/writing-this-site) (2 months ago)
 
 # 📞 Contact Me
 - **Discord:** terminaate
@@ -42,7 +41,7 @@ I enjoy making apps that are not just functional, but also feel great to use.
 
 # Current discord status
 # 🎉 My Discord Banner
-Want a cool Discord banner like this?  
+Want a cool Discord banner like this?
 Check it out at [discord-banners](https://discord-banners.terminaate.site)!
 
 [![Discord Banner](https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=true)](https://discord-banners.terminaate.site/)
