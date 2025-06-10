@@ -21,9 +21,9 @@ I enjoy making apps that are not just functional, but also feel great to use.
 
 # 📝 Blog Posts
 
-- [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (3 months ago)
+- [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (4 months ago)
 - [Making of discord banners](https://terminaate.site/blog/making-of-discord-banners) (2 months ago)
-- [Writing this website](https://terminaate.site/blog/writing-this-site) (3 months ago)
+- [Writing this website](https://terminaate.site/blog/writing-this-site) (4 months ago)
 
 # 📞 Contact Me
 - **Discord:** terminaate
