@@ -1,11 +1,13 @@
 ## `about:`
 
 ```
-Hey. I’m a frontend developer from Russia that sometimes does devops and backend. Most of the time im using react/next/remix for frontend, and express/nest for backend.
+Hey. I’m a frontend developer from Russia that sometimes does devops and backend.
+Most of the time im using react/next/remix for frontend, and express/nest for backend.
 
 I like putting things together in a way that feels right, both for the user and the code.
 
-Right now I'm focused on trying to do "cool" things, whether it's just a cool looking website or something helpful, but I'm also open for freelance opportunities or informal collaborations.
+Right now I'm focused on trying to do "cool" things, whether it's just a cool looking website or something helpful,
+but I'm also open for freelance opportunities or informal collaborations.
 ```
 
 ## `projects:`
