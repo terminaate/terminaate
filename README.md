@@ -13,7 +13,7 @@ but I'm also open for freelance opportunities or informal collaborations.
 ## `projects:`
 
 `On my freetime(right now it's always lol) im working on` [`CyberMP`](https://cybermp.org)
-`There's also some other projects, most of them you can find here on my github or on` [`//terminaate.site`](https://terminaate.github.io)
+`There's also some other projects, most of them you can find here on my github or on` [`//terminaate.site`](https://terminaate.site)
 
 ## `contacts:`
 
