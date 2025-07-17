@@ -1,46 +1,27 @@
-# 👋 About Me
-Hi! I'm a web developer from Russia who loves building cool things for the web.
+## `about:`
 
-I mostly work with **React** and **Next.js**, focusing on modular, efficient, and good-looking projects.
-Lately, I've also been diving into **backend** and **DevOps**, learning how everything works under the hood.
+```
+Hey. I’m a frontend developer from Russia that sometimes does devops and backend. Most of the time im using react/next/remix for frontend, and express/nest for backend.
 
-I enjoy making apps that are not just functional, but also feel great to use.
+I like putting things together in a way that feels right, both for the user and the code.
 
----
+Right now I'm focused on trying to do "cool" things, whether it's just a cool looking website or something helpful, but I'm also open for freelance opportunities or informal collaborations.
+```
 
+## `projects:`
 
-# 🛠️ Projects
-- [CyberMP](https://cybermp.org) – A multiplayer modification/platform for Cyberpunk 2077
-- [Discord Banners](https://github.com/terminaate/discord-banners) – service that turns your Discord profile into a stylish, shareable image — perfect for showing off your avatar, status, and banner anywhere!
-- [Personal website](https://github.com/terminaate/personal-site) – My personal website
-- [ValorBG](https://github.com/terminaate/ValorBG) – Custom background changer for Valorant
-- [vc-discordTracker](https://github.com/terminaate/vc-discordTracker) – Vencord extension for Discord Tracker integration
-- [vc-nextRoom](https://github.com/terminaate/vc-nextRoom) – Vencord plugin for easier voice channel switching
+`On my freetime(right now it's always lol) im working on` [`CyberMP`](https://cybermp.org)
+`There's also some other projects, most of them you can find here on my github or on` [`//terminaate.site`](https://terminaate.github.io)
 
----
+## `contacts:`
 
-# 📝 Blog Posts
+```
+- Discord: terminaate
+- Email: terminaatecorp@gmail.com
+```
 
-- [How i turned my old phone into home server](https://terminaate.site/blog/home-server-creation) (5 months ago)
-- [Making of discord banners](https://terminaate.site/blog/making-of-discord-banners) (3 months ago)
-- [Writing this website](https://terminaate.site/blog/writing-this-site) (5 months ago)
+## `discord banner:`
 
-# 📞 Contact Me
-- **Discord:** terminaate
-- **Email:** terminaatecorp@gmail.com
-
----
-
-# 🎖️ GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terminaate&theme=omni&hide_border=true&border_radius=15px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=terminaate&theme=omni&hide_border=true&border_radius=15px" />
-</div>
-
----
-
-# 🎉 My Discord Banner
-Want a cool Discord banner like this?
-Check it out at [discord-banners.terminaate.site](https://discord-banners.terminaate.site)!
+`This is a pet project of mine to just display a discord profile as an svg image:`
 
 [![Discord Banner](https://discord-banners-api.terminaate.site/banner/terminaate?fakeProfile=true&cache=true)](https://discord-banners.terminaate.site/)
